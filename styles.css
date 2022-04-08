@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-top{
+    height: 35px;
+    background-color: #EB5E33;
+
+}
+.htop-left{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+ .htop-left li {
+    color: white;
+
+} 
+
+.navbar-light .navbar-nav .nav-link{
+    color: darkslategrey;
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-size: larger;
+
+}
+
+.sect1{
+     /* height: 644px;  */
+     /* background-color: red;  */
+}
+
+.trest{
+    /* height: 500px; */
+    background-color: ghostwhite;
+    padding: 32px;
+}
+
+ .myline{
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 23px;
+} 
+
+.circle{
+    height: 200px;
+    width: 200px;
+    border: 2px dashed #7b7b7b;
+    border-radius: 100px;
+    background-color: white;
+    text-align: center;
+
+    padding-top: 28px;
+    text-align: center;
+    margin: 10px;
+}
+.myfont{
+ 
+    font-size: 82px;
+    margin-left: 62px;
+    color: #EB5E33;
+
+}
+
+.circle ul {
+    list-style: none;
+}
+
+.circle ul li i{
+    color: #EB5E33;
+    font-size: 70px;
+    padding-top: 20px;
+}
+
+.circle .textr{
+    font-family: 'Rancho', cursive;
+    text-transform: capitalize;
+    color: #29272e;
+    font-size: 22px;
+
+}
+
+.sect3{
+    height: 100px;
+    background-color: ghostwhite;
+}
+.sect3 p{
+    font-weight: 500;
+    font-size: 16px;
+    color: #f15f2a;
+    position: relative;
+    text-transform: uppercase;
+    display: inline-block;
+    line-height: 0.1;
+}
+.t1{
+    font-family: 'Rancho', cursive;
+    font-size: 32px;
+    text-transform: capitalize;
+    color: #29272e;
+    margin: 0;
+}
+
+.sect4{
+    height: 1000px;
+    /* background-color: maroon;  */
+}
+
+.boxtest{
+    height: 300px;
+    width: 283px;
+    background-color: lightgreen;
+}
+
+.bb img{
+    height: 150px;
+    background-color: grey;
+}
+
+.bb{
+    height: 350px;
+    background-color: yellow;
+}
+
+/* .sect4 .right{
+    color: white;
+
+    height: 77px;
+    width: 80px;
+    text-align: center;
+    background-color: #F15F2A;
+   
+    border-radius: 100px;
+    padding-top: 20px;
+    font-size: 27px;
+    padding-top: 22px;
+} */
+
+.sect4 .btmy{
+    background-color:#2D69D9 ;
+
+}
+
+.btn-primary .btmy{
+    color: #fff;
+    background-color: red;
+    border-color: #357ebd; /*set the color you want here*/
+}
+.btn-primary.btmy:hover {
+    color: black;
+    text-transform: uppercase;
+    background-color: #FBCA2C;
+    font-family:monospace;
+    border-color: red; /*set the color you want here*/
+}
+
+.sect6{
+    height: 300px;
+    background-color: RED;
+}
+
+.tr{
+    height: 300px;
+    /* background-color: red; */
+}
+
+.jumbo{
+    background-image: url('http://sun-themes.com/html/fooday/assets/images/banner-img-1.jpg');
+    height: 300px;
+    background-position: center;
+    background-repeat: space;
+}
+
+.jumbo1{
+    background-image: url('http://sun-themes.com/html/fooday/assets/images/banner-img-2.jpg');
+    height: 300px;
+    background-position: center;
+    background-repeat: space;
+
+}
+
+.side{
+    height: 250px;
+    /* background-color: blue; */
+    text-align: center;
+ 
+} 
+
+.side h4{
+    text-align: center;
+    font-size: 37px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+.btnsli{
+    min-width: 50px;
+    min-height: 20px;
+    padding: 10px 35px;
+    background-color: #f15f2a;
+    border: 1px solid #f15f2a;
+    text-transform: uppercase;
+    border-radius: 25px;
+    display: inline-block;
+    position: relative;
+    color: #fff;  
+    /* top: 60px; */
+}
+
+footer{
+    height: 394px;
+    background-color: #040609;
+}
+
+.ft1{
+    height: 345px;
+    /* background-color: darkorange; */
+}
+.res{
+    justify-content: space-around;
+    list-style: none;
+    
+}
+.res li {
+    background-color: #191c1e;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+    color: whitesmoke;
+    /* font-weight: 400;
+    font-size: 27px;
+    text-align: center;
+    color: white;
+    height: 44px;
+    width: 61px;
+    border-radius: 96px;
+    background-color: #191c1e;
+    padding: 3px; */
+}
+
+.ft1 hr{
+    border-bottom: 2px solid #a1a1a1;
+}
+
+.jumboboy{
+    background-image: url('http://sun-themes.com/html/fooday/assets/images/background/footer-bg.jpg');
+    height: 392px;
+}
+
+.ft1 h2{
+    font-size: 25px;
+    color: white;
+}
+
+.ft1 ul li {
+    color: white;
+}
