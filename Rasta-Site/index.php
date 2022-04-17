@@ -35,30 +35,40 @@
             <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
             <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="./images/sliderbest1876.jpg" class="d-block w-100" alt="...">
+            <img src="./images/slider223.jpg" class="d-block w-100" alt="...">
               <div class="carousel-caption myline d-none d-md-block">
-                <h5>Beans & Plantain (EWAGOYIN)</h5>
+                <h5>Jollof-Rice & Meat</h5>
                 <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
               </div>
             </div>
             <div class="carousel-item">
 
-              <img src="./images/sliderbest2876.jpg" class=" d-block w-100" alt="...">
+              <img src="./images/regusiori.jpg" class=" d-block w-100" alt="...">
               <div class="carousel-caption myline d-none d-md-block">
-                <h5>Jollof Rice & Plantain</h5>
+                <h5>Egusi & Eba</h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="./images/sliderbest3876.jpg" class="d-block w-100" alt="...">
+              <img src="./images/egusi3.jpeg" class="d-block w-100" alt="...">
               <div class="carousel-caption myline d-none d-md-block">
-                <h5>Third slide label</h5>
-                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+              <h5>Egusi Soup</h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
               </div>
             </div>
+            <div class="carousel-item">
+              <img src="./images/ogbono.jpeg" class="d-block w-100" alt="...">
+              <div class="carousel-caption myline d-none d-md-block">
+              <h5>Ogbono Soup</h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              </div>
+            </div>
+           
 
           </div>
           <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
@@ -134,12 +144,12 @@
       <div class="row pt-3">
         <div class="col-lg-4 col-md-4">
           <div class="card " style="width: rem;">
-            <img class="card-img-top" src="./images/plate3.jpeg" alt="Card image cap">
+            <img class="card-img-top" src="https://media.istockphoto.com/photos/jollof-rice-with-chicken-and-fried-plantain-west-african-cuisine-picture-id644430324?k=20&m=644430324&s=612x612&w=0&h=BTAQLeNSGXIJbuex6ap0MLrT_f-mm-pe71fGbbCm01o=" alt="Card image cap">
             <div class="card-body">
-              <h6 class="card-title">EWAGOYIN(BEANS & PLANTAIN)</h6>
+              <h6 class="card-title">JOLLOF-RICE & PLANTAIN</h6>
               <p class="right">$ 25</p>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="contact.php" class="btn btn-primary btmy ">Order-Now</a>
+              <p class="card-text">Rice cooked in a zesty tomato sauce with spices and herb,  zesty tomato sauce with spices and herb.</p>
+              <a href="contatti.php" class="btn btn-primary btmy ">Order-Now</a>
             </div>
 
           </div>
@@ -147,24 +157,24 @@
         </div>
         <div class="col-lg-4 col-md-4">
           <div class="card" style="width: ;">
-          <img class="card-img-top" src="./images/plate3.jpeg" alt="Card image cap">
+          <img class="card-img-top" src="https://media.istockphoto.com/photos/nigerian-egusi-soup-served-with-pounded-yam-picture-id1280669361?k=20&m=1280669361&s=612x612&w=0&h=T_fRzum1bbkVTnCB9PUY5zvsDrdtxgW9xt7tNTjeMHA=" alt="Card image cap">
             <div class="card-body">
-              <h6 class="card-title">EWAGOYIN(BEANS & PLANTAIN)</h6>
+              <h6 class="card-title">EGUSI & POUNDED YAM</h6>
               <h3 class="right">$ 25</h3>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="contact.php" class="btn btn-primary btmy ">Order-Now</a>
+              <p class="card-text">Egusi soup with fish, a Nigerian dish made with melon,basil and palm oil is eaten with fufu or pounded yam etc..</p>
+              <a href="contatti.php" class="btn btn-primary btmy ">Order-Now</a>
             </div>
 
           </div>
         </div>
         <div class="col-lg-4 col-md-4">
           <div class="card" style="width: ;">
-          <img class="card-img-top" src="./images/plate3.jpeg" alt="Card image cap">
+          <img class="card-img-top" src="https://media.istockphoto.com/photos/nigerian-traditional-pounded-yam-served-with-ogbono-soup-picture-id1008392778?k=20&m=1008392778&s=612x612&w=0&h=zalStJ5o7TGk7SHRFmDizl8_QJRKzQWSBY8hVgeQmJg=" alt="Card image cap">
             <div class="card-body">
-              <h6 class="card-title">EWAGOYIN(BEANS & PLANTAIN)</h6>
+              <h6 class="card-title">OGBONO & POUNDED YAM</h6>
               <h3 class="right">$ 25</h3>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="contact.php" class="btn btn-primary btmy ">Order-Now</a>
+              <p class="card-text">Draw soup made from African mango tree. Delicious soup including fish , meat , crayfish etc</p>
+              <a href="contatti.php" class="btn btn-primary btmy ">Order-Now</a>
             </div>
 
           </div>
@@ -176,12 +186,12 @@
       <div class="row pt-3">
       <div class="col-lg-4 col-md-4">
           <div class="card " style="width: rem;">
-            <img class="card-img-top" src="./images/plate3.jpeg" alt="Card image cap">
+            <img class="card-img-top" src="https://storage.dado.ng/wp-content/uploads/2018/11/06200125/1527927368.jpg" alt="Card image cap">
             <div class="card-body">
-              <h6 class="card-title">EWAGOYIN(BEANS & PLANTAIN)</h6>
+              <h6 class="card-title">WHITE RICE & PLANTAIN</h6>
               <p class="right">$ 25</p>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="contact.php" class="btn btn-primary btmy ">Order-Now</a>
+              <p class="card-text">White rice with plantain fish or meat, Sweet and really yummy with enough pepper</p>
+              <a href="contatti.php" class="btn btn-primary btmy ">Order-Now</a>
             </div>
 
           </div>
@@ -189,24 +199,24 @@
         </div>
         <div class="col-lg-4 col-md-4">
           <div class="card" style="width: ;">
-          <img class="card-img-top" src="./images/plate3.jpeg" alt="Card image cap">
+          <img class="card-img-top" src="https://www.organicfacts.net/wp-content/uploads/ewaagoyinmashedbeans.jpg" alt="Card image cap">
             <div class="card-body">
-              <h6 class="card-title">EWAGOYIN(BEANS & PLANTAIN)</h6>
+              <h6 class="card-title">EWAGOYIN (BEANS)</h6>
               <h3 class="right">$ 25</h3>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="contact.php" class="btn btn-primary btmy ">Order-Now</a>
+              <p class="card-text">Ewagoyin is a typical african dish and really delicious.</p>
+              <a href="contatti.php" class="btn btn-primary btmy ">Order-Now</a>
             </div>
 
           </div>
         </div>
         <div class="col-lg-4 col-md-4">
           <div class="card" style="width: ;">
-          <img class="card-img-top" src="./images/plate3.jpeg" alt="Card image cap">
+          <img class="card-img-top" src="https://intercontinentalfoodcourt.ie/wp-content/uploads/2020/10/assorted-meat-pepper-soup.jpg" alt="Card image cap">
             <div class="card-body">
-              <h6 class="card-title">EWAGOYIN(BEANS & PLANTAIN)</h6>
+              <h6 class="card-title">PEPPER SOUP GOAT MEAT</h6>
               <h3 class="right">$ 25</h3>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="contact.php" class="btn btn-primary btmy ">Order-Now</a>
+              <p class="card-text">Pepper Soup meat or fish <strong style="color: red;">ON REQUEST.</strong>  for Aperitivo time and relaxing dish . Spciy lovers</p>
+              <a href="contatti.php" class="btn btn-primary btmy ">Order-Now</a>
             </div>
 
           </div>
@@ -218,7 +228,8 @@
 
      
     </section>
-    <div class="tr container-fluid">
+    <!-- for future pirpose -->
+    <!-- <div class="tr container-fluid">
           <div class="row">
             <div class="col-6 jumbo">
 
@@ -226,7 +237,7 @@
               <div class="offset-6 col-4 col-md-6 side mt-4 pt-4">
                 <h4>HONEY CAKE</h4>
                 <p style="color: white;">NEW DISHES THIS WEEK</p>
-                <a href="" class="btnsli ">READ MORE</a>
+                <a href="" class="btn btn-primary ">READ MORE</a>
 
               </div>
 
@@ -239,7 +250,7 @@
               <div class="offset-2 col-4 col-md-6 side mt-4 pt-4">
                 <h4>HAM STORY</h4>
                 <p style="color: white;">NEW DISHES THIS WEEK</p>
-                <a href="" class="btnsli ">READ MORE</a>
+                <a href="" class="btn btn-primary ">READ MORE</a>
 
               </div>
 
@@ -251,7 +262,7 @@
 
        
 
-    </div>
+    </div> -->
     <!-- END OF PAGE  -->
   
 
@@ -261,7 +272,7 @@
 
 
   </main>
-  <footer>
+  <footer class="">
 
     <?php include('./footer/footer.php') ?>
 
